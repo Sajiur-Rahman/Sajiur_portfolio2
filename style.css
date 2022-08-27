@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+}
+.header-section{
+        background-image: url(/image/header-bg.png);
+        background-size: cover;
+        height: 400px;
+        padding:120px;
+}
+.half-width{  
+        width: 50%;
+        float: left;
+}
+div img{
+        width: 500px;
+        margin-top: -100px;
+}
+h1{
+        font-size: 50px;
+        color: #FF367D;
+        font-weight: 700;
+}
+h2{
+        font-size: 40px;
+        font-weight: 400;
+}
+h4{
+        font-weight: 700;
+}
+p{
+        color: dimgray;
+        margin-bottom: 50px;
+}
+a{
+        background-image: linear-gradient(49deg,#F94C98C4, #F00565C7);
+        color: white;
+        padding: 12px 30px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: 600;
+}
+.biography{
+        background-image: url(/image/biography-bg.png);
+        margin-top: 60px;
+        background-size: cover;
+        height: 400px;
+        padding: 70px;
+}
+.biography img{
+        margin-left: -36px;
+}
+.latest-work{
+        background-image: url(/image/latest-work-bg.png);
+        background-size: cover;
+        height: 400px;
+        text-align: center
+}
+#my-latest-works-head{
+        margin: 40px;
+}
+#my-latest-work-img img{
+        
+        margin: 10px;
+        width: 250px;
+}
+.footer {
+        background-image: url(/image/footer-bg.png);
+        background-size: cover;
+        height: 400px;
+        text-align: center;
+        padding: 70px;
+        margin-bottom: 30px;
+}
+.footer-text{
+        margin-bottom: 50px;
+}
+.footer-anchor{
+        padding: 40px;
+        width: 60%;
+        height: 50px;
+        margin-left: 140px;
+        border-radius: 5px;
+        background-image: linear-gradient(49deg,#F94C98C4, #F00565C7);
+}
+.footer a{
+        width: 40%;
+        padding: 0;
+}
+.footer a p{
+        font-size: 16px;
+        font-weight: 500;
+        color: white;
+        margin: -8px;
+        margin-bottom: -18px;
+}
+.footer a h4{
+        font-size: 30px;
+        font-weight: 500;
+}
+footer p a{
+        background-image: none;
+        margin: 0;
+        padding: 0;
+        color: coral;
+}
+footer{
+        height: 30px;
+        text-align: center;
+        padding: 5px;
+}
