@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 .header-section{
-        background-image: url(/image/header-bg.png);
+        background-image: url(image/header-bg.png);
         background-size: cover;
         height: 400px;
         padding:120px;
@@ -40,7 +40,7 @@ a{
         font-weight: 600;
 }
 .biography{
-        background-image: url(/image/biography-bg.png);
+        background-image: url(image/biography-bg.png);
         margin-top: 60px;
         background-size: cover;
         height: 400px;
@@ -50,7 +50,7 @@ a{
         margin-left: -36px;
 }
 .latest-work{
-        background-image: url(/image/latest-work-bg.png);
+        background-image: url(image/latest-work-bg.png);
         background-size: cover;
         height: 400px;
         text-align: center
@@ -64,7 +64,7 @@ a{
         width: 250px;
 }
 .footer {
-        background-image: url(/image/footer-bg.png);
+        background-image: url(image/footer-bg.png);
         background-size: cover;
         height: 400px;
         text-align: center;
